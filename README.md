@@ -24,3 +24,5 @@ void pushArrayBuku(string data){
     }
 }
 ```
+#Reference
+[1] Karumanchi. N, Data Structures and Algorithm Made Easy, CareerMonk Publications, 2017, pp. xxx-xxx
